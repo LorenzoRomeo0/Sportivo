@@ -13,6 +13,11 @@ public class Sportivo {
 		this.codiceFiscale = codiceFiscale;
 		this.disciplina = disciplina;
 	}
+	@Override
+	public String toString() {
+		return "Sportivo [nome=" + nome + ", cognome=" + cognome + ", codiceFiscale=" + codiceFiscale + ", disciplina="
+				+ disciplina + "]";
+	}
 	public String getNome() {
 		return nome;
 	}

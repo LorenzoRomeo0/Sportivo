@@ -10,7 +10,7 @@ public class Test {
 		
 		
 		//dao.setSport("nuoto");
-		dao.setSportivo(new Sportivo("giacomo","mirti","aloa", "nuoto"));
+		//dao.setSportivo(new Sportivo("giacomo","mirti","aloa", "nuoto"));
 		//dao.delSport("pallavolo");
 		//dao.delSportivo("loll");
 		
